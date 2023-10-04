@@ -1,6 +1,6 @@
 # Fake Product Identification using Blockchain
 
-![GitHub](https://img.shields.io/github/last-commit/yogeshxd/Minor-Project)
+![GitHub](https://img.shields.io/github/last-commit/yogeshxd/ProjectM)
 
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
