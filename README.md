@@ -1,4 +1,3 @@
-#Minor Project
 # Fake Product Identification using Blockchain
 
 ## Packages Required:-
