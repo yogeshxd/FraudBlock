@@ -18,7 +18,7 @@
 
 1. Clone the project
 ```
-git clone https://github.com/yogeshxd/Minor-Project
+git clone https://github.com/yogeshxd/ProjectM
 ```
 2. Go to the project folder, open terminal there and run following command to install required node_modules:-
 ```
