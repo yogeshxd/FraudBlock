@@ -35,7 +35,7 @@ truffle compile
 5. In chrome, open metamask 
    - add new test network using  
         - NETWORK ID (i.e. 5777 ,from Ganache Server settings) 
-        - RPC SERVER (i.e HTTP://127.0.0.1:8545 ,from Ganache Server settings)
+        - RPC SERVER (i.e HTTP://127.0.0.1:7545 ,from Ganache Server settings)
         - CHAIN CODE (i.e. 1337)
    - import account using private key of any account from local blockchain available in Ganache.
 6. In terminal, run following commands:-
@@ -48,5 +48,5 @@ truffle migrate
 ```
 npm run dev 
 ``` 
-7. Login to metamask ,and connect the added account to local blockchain (i.e.localhost:3000)
+7. Login to metamask ,and connect the added account to local blockchain manually (i.e.localhost:3000)
 8. Interact with website
