@@ -1,6 +1,8 @@
-# Fake Product Identification using Blockchain
+# FraudBlock
 
 ![GitHub](https://img.shields.io/github/last-commit/yogeshxd/ProjectM)
+
+### Blockchain based Fake product identification using QR Codes
 
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
