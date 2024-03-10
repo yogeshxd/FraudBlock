@@ -1,6 +1,6 @@
 # FraudBlock
 
-![GitHub](https://img.shields.io/github/last-commit/yogeshxd/ProjectM)
+![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock)
 
 ### Blockchain based Fake product identification Solution using QR Codes
 
