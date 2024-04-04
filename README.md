@@ -4,7 +4,7 @@
 
 ### Blockchain based Fake product identification Solution using QR Codes
 
-## Demo
+## Installation & Demo
 [![FraudBlock](https://cdn.discordapp.com/attachments/768924278967894056/1225486567619956846/image.png?ex=66214e4e&is=660ed94e&hm=b0adbcb9c50d9868794e3bc8d8028e9cc1002a15f5067070d6841a06d71bf6e7&)](https://youtu.be/F01t48jT5wQ)
 
 ## Packages Required:-
