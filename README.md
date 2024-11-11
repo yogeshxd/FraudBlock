@@ -19,11 +19,11 @@
 1. Any chromium based browser i.e. Chrome 
 2. Metamask browser extension
     
-## setup process 
+## Setup Process 
 
 1. Clone the project
 ```
-git clone https://github.com/yogeshxd/ProjectM
+git clone https://github.com/yogeshxd/FraudBlock
 ```
 2. Extract the `src.zip` and verify that all the files are in the src folder only and not in src/src.
 
