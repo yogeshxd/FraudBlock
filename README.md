@@ -1,8 +1,9 @@
 # FraudBlock
 
-### NOTE: Devlopement of this project has been stopped because I working on newer projects so this repository will not receving any updates.
-
 ![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock)
+
+### NOTE: Devlopement of this project has been stopped because I working on newer projects so this repository will not receving any updates.
+### Last Update: Fixed issues with connecting with metamask.
 
 ### Blockchain based Fake product identification Solution using QR Codes
 
@@ -57,7 +58,7 @@ truffle migrate
 ```
 npm run dev 
 ``` 
-8. Login to metamask ,and connect the added account to local blockchain manually (i.e.localhost:3000)
+8. Login to metamask ,and connect the added account to local blockchain by clicking the 'Connect Wallet' button on the homescreen.
 9. Interact with website
 
 ### Psst... I have also added all the documents(reports, ppts, base paper etc.) incase anyone of you might wanna use it as your minor/major project.
