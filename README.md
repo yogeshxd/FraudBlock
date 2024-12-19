@@ -3,8 +3,8 @@
 ![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock)
 
 ```
-#### NOTE: Devlopement of this project has been stopped because I working on newer projects so this repository will not receving any updates.
-#### LastUpdate: Fixed issues with connecting with metamask.
+NOTE: Devlopement of this project has been stopped because I working on newer projects so this repository will not receving any updates.
+LastUpdate: Fixed issues with connecting with metamask.
 ```
 
 ### Blockchain based Fake product identification Solution using QR Codes
